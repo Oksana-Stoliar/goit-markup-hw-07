@@ -359,12 +359,6 @@ img {
   position: relative;
 }
 
-.box__image {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
 .box__text {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -581,12 +575,6 @@ img {
 .project__item:hover .project__text {
   -webkit-transform: translateY(0);
           transform: translateY(0);
-}
-
-.project__image {
-  display: block;
-  max-width: 100%;
-  height: auto;
 }
 
 .project__link {
